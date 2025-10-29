@@ -20,7 +20,7 @@ export default {
         body: ['Inter', 'sans-serif'],
         headline: ['Inter', 'sans-serif'],
       },
-      colors: { // define custom colors using CSS variables taken from :root in globals.css
+      colors: { // define custom colors using CSS variables taken from globals.css
         border: 'hsl(var(--border))',
         input: 'hsl(var(--input))',
         ring: 'hsl(var(--ring))',
