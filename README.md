@@ -1,2 +1,1 @@
-
-- you can use ***hsl color preview*** to preview hsl colors
+- use ***hsl color preview*** extension on vscode to preview hsl colors
