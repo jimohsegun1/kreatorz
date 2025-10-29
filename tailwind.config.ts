@@ -8,19 +8,19 @@ export default {
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
-    container: {
+    container: { // sets max-width to 1400px on 2xl screens and centers container with 2rem padding on all sides 
       center: true,
       padding: "2rem",
       screens: {
         "2xl": "1400px",
       },
-    },
-    extend: {
+    }, 
+    extend: { // extend default theme with custom values 
       fontFamily: {
         body: ['Inter', 'sans-serif'],
         headline: ['Inter', 'sans-serif'],
       },
-      colors: {
+      colors: { // define custom colors using CSS variables taken from :root in globals.css
         border: 'hsl(var(--border))',
         input: 'hsl(var(--input))',
         ring: 'hsl(var(--ring))',
