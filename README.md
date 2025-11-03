@@ -1,1 +1,2 @@
 - use ***hsl color preview*** extension on vscode to preview hsl colors
+- **Figma:** [Link](https://www.figma.com/design/7qC2pR2HyLmUJNkbFPWzrK/Trial--Copy-?node-id=0-1&p=f&t=NhufycPtOsi355vK-0)
